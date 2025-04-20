@@ -1,4 +1,4 @@
-#!/home/rhys/tortoise-app/camera-app/venv/bin/python3
+#!/home/rhys/rhyspi/tortoise-app/camera-app/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
